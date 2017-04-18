@@ -9,7 +9,7 @@ Metrics are tools designed to facilitate decision making and improve performance
 
 1.1.Background to the problem
 
-This research analyses the problem of calculating network security and purpose of a framework which can calculate security metrics for a typical small network comprising of numerous devices,operating systems and hosts.This project will involve the configulation of virtual networks for testing the framework.CVSS or other metric scores may be used to the calculation of metric.This dissertation involves pratical work which has a number of machines on the network and applying a range of scanning,probing and vulnerability testing mechanisms on the network.
+This research analyses the problem of calculating network security and purpose of a framework which can calculate security metrics for a typical small network comprising of numerous devices,operating systems and hosts.This project will involve the configulation of virtual networks for testing the framework.CVSS (common vulnerability scoring system calculator)or other metric scores may be used to the calculation of metric.This dissertation involves pratical work which has a number of machines on the network and applying a range of scanning,probing and vulnerability testing mechanisms on the network.The CVSS allows you to refine the CVSS base score .it comprises of three groups each consiting of a set of metric that is the base metric group for access vector,confifentality,the Temporal metric group for exploitability,remediation level and the environmental metric group 
 
 1.2.Problem statement
 
