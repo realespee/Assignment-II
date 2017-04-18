@@ -10,3 +10,7 @@ Metrics are tools designed to facilitate decision making and improve performance
 1.1.Background to the problem
 
 This research analyses the problem of calculating network security and purpose of a framework which can calculate security metrics for a typical small network comprising of numerous devices,operating systems and hosts.This project will involve the configulation of virtual networks for testing the framework.CVSS or other metric scores may be used to the calculation of metric.This dissertation involves pratical work which has a number of machines on the network and applying a range of scanning,probing and vulnerability testing mechanisms on the network.
+
+1.2.Problem statement
+
+Calculating network metrics is a complex problem to deal with because it involves the study of very many devices and it needs someone to be a bit careful.Setting up a network without adquate security is like wrapping yourself in neon lights and taking a stroll through a war torn city,you are asking for trouble.we distribute innovative and cutting edge firewall and network technologies to bring you best of breed security appliances .As we concern over cyber atttack continues to grow,you need to secure your network while continuing to enable your business.our next generation firewall delivers comprehensive visibility into network traffic based on application users and content while allowing you to enhance and address your businnes needs
